@@ -68,13 +68,15 @@ Global Styles
 }
 body {
   font-family: var(--ff-secondary);
-  background: var(--clr-grey-10);
-  color: var(--clr-grey-1);
+  
+  height: 100%;
   line-height: 1.5;
   max-width: 60%;
   margin: auto;
   font-size: 0.875rem;
 }
+
+
 ul {
   list-style-type: none;
 }
